@@ -1,0 +1,13 @@
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\bin\Debug\netcoreapp3.1\Noughts-And-Crosses.exe
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\bin\Debug\netcoreapp3.1\Noughts-And-Crosses.deps.json
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\bin\Debug\netcoreapp3.1\Noughts-And-Crosses.runtimeconfig.json
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\bin\Debug\netcoreapp3.1\Noughts-And-Crosses.runtimeconfig.dev.json
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\bin\Debug\netcoreapp3.1\Noughts-And-Crosses.dll
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\bin\Debug\netcoreapp3.1\Noughts-And-Crosses.pdb
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.csprojAssemblyReference.cache
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.AssemblyInfoInputs.cache
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.AssemblyInfo.cs
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.csproj.CoreCompileInputs.cache
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.dll
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.pdb
+C:\GitHub\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\Noughts-And-Crosses\obj\Debug\netcoreapp3.1\Noughts-And-Crosses.genruntimeconfig.cache

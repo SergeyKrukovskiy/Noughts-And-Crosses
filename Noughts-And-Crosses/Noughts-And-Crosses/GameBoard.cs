@@ -6,10 +6,12 @@ namespace Noughts_And_Crosses
 {
     class GameBoard
     {
+        public int СountGameSquare;
         public GameBoard ()
         {
             Console.SetWindowSize(80, 25);
             Console.SetBufferSize(80, 25);
+            СountGameSquare = 9;
         }
         public void DrawGameBoard ()
         {

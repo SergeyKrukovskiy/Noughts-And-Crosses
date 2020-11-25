@@ -9,8 +9,7 @@ namespace Noughts_And_Crosses
         
         internal void DrawObject(Point p)
         {
-            Console.Beep();
             p.Draw();
-        } 
+        }
     }  
 }
